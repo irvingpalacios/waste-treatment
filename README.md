@@ -5,7 +5,9 @@ This work is my final bootcamp Data Anlytics project from IronHack were I tried 
 
 - Pandas
 - Numpy
-- Data visualization (Tableau, matplotlib and Seaborn), ML algorithms (SKLEARN library).
+- Data visualization (Tableau, matplotlib and Seaborn)
+- Null values imputer (KNN Imputer).
+- ML algorithms (SKLEARN library)
 
 Using a Dataset from The World Bank I analyzed the type of wastes and treatment of them by country. Trying to findd out opportunity areas and clustered them with ML.
 
